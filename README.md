@@ -1,26 +1,29 @@
+<idoctype html>
 
 <html>
-<head>
-  <style>
-    .justified-text {
-      text-align: justify;
-    }
-  </style>
-</head>
+    <head>
+
+<link rel="stylesheet" href="css.css" >
+
+
+    </head>
+
 <body>
-  <p class="justified-text">
-    
-    
-    kdlfjgkerljgkerlgjsldgjerkljeaklrjgrlkgjld erlkjekltj;jglkrgjklrjtrkltjKLRGJLKrtjlkrtjrkleyjrkelghj ljlrkgjerlkjgerlkgjlkrejglekrhjeltkhjltkhjtlhkjkhj;<th></th>
-    Lorem ipsum dolor sit amet, consecteturhkltrjhkl lrekjgerlkgjerlkgjelrkgj; ljrlgjt4oitjopjgv oljrl;tj'EGJ'jglEKJljglkrgj ;LREJY;'ryjy;lRJG;LERGJl;erjhrehjl;j;ljh;la'rhejl'aerh
-    thlka;h'kl;hka;ldhkl;\"
 
-SLAW AM KATAT BASH 
+<h1>
 
+    سڵاو من ناوم ملکۆیە 
 
+</h1>
+
+<h2> 
     
-    lthkd;lkhgld;kg kerl;ekrg;lkf;lkg\ar l;kglkRGL;KGA;LFGKA;LDFGKA;\GK KRLKTER;GK KG;K'lgrfgo;jhjhjhjdf'lvjg jrgja'dbjarherypohjb 
-     adipiscing elit. Nullam congue tincidunt nisi, eu venenatis nisi faucibus ac. Maecenas vitae dapibus sem. Proin hendrerit eros non mauris cursus euismod. Duis eu velit at mi fringilla tincidunt. Nunc volutpat ex ut tellus ullamcorper, sed consequat elit efficitur. Sed mattis pulvinar elit, vel fringilla est dapibus ac. Quisque fermentum, mauris ut gravida rutrum, ipsum tellus malesuada est, ut ultrices ante lorem ut leo.</p>
+من لێرە ئەنووسم و ڕاکانی خۆم دەرەبڕم
+
+</h2>
+
+
 </body>
+
+
 </html>
-سلاو ئەم کاتەت باش 
