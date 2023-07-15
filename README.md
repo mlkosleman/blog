@@ -2,6 +2,9 @@
 
 <html>
     <head>
+        <meta charset="UTF-8">
+    <title>Right-to-Left Text</title>
+
 
 <link rel="stylesheet" href="css.css" >
 
